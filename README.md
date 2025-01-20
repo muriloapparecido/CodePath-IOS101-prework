@@ -13,13 +13,23 @@ The following **required** functionality is completed:
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
+- Instagram
+  - Upload photo/videos/reels to the app
+  - Watch content uploaded by others. 
+- Youtube
+  - Upload videos/shorts to the app
+  - Watch videos/short uploaded by others
+- Spotify
+  - Listening to music uploaded by others. 
+  - Adding music uploaded by others to personal playlists.
+ 
+- App idea
+  - Self-improvement app
+    - Allows users to log their daily activities and how long they spent on that activity
+    - Utilize AI to analyze these entries to identify ineffieciencies and provide suggestions to improve time management
+    - Decision-making support
+      - Use AI to apply economic principles to evaluate user's options based on the users preference, guiding them to make smarter, more informed choices
 
 ## Notes
 
@@ -39,23 +49,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
-## App Brainstorming
-- Instagram
-  - Upload photo/videos/reels to the app
-  - Watch content uploaded by others. 
-- Youtube
-  - Upload videos/shorts to the app
-  - Watch videos/short uploaded by others
-- Spotify
-  - Listening to music uploaded by others. 
-  - Adding music uploaded by others to personal playlists.
- 
-- App idea
-  - Self-improvement app
-    - Allows users to log their daily activities and how long they spent on that activity
-    - Utilize AI to analyze these entries to identify ineffieciencies and provide suggestions to improve time management
-    - Decision-making support
-      - Use AI to apply economic principles to evaluate user's options based on the users preference, guiding them to make smarter, more informed choices
-
-    
